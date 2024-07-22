@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: PN_AZ_2Project
+  gitServerName: GH_PN
+  gitUrl: https://github.com/pnagar1705/PN_AZ_2Project
+  gitUsername: pnagar1705
+  gitBranch: main
